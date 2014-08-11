@@ -16,7 +16,7 @@ namespace QLTHUOC
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new GIAODIEN.TrangChu());
-            //Application.Run(new GIAODIEN.PhieuNhap());
+           
         }
     }
 }

@@ -51,6 +51,7 @@
   <ItemGroup>
     <Reference Include="DevComponents.DotNetBar2, Version=11.0.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -68,10 +69,12 @@
     <Compile Include="BLL\HOADONBH.cs" />
     <Compile Include="BLL\CUAHANG.cs" />
     <Compile Include="BLL\NHACUNGCAP.cs" />
-    <Compile Include="BLL\NHANVIEN.cs" />
+    <Compile Include="BLL\NhanVienBL.cs" />
     <Compile Include="BLL\PHIEUNHAP.cs" />
     <Compile Include="BLL\PHIEUXUAT.cs" />
     <Compile Include="BLL\THUOC.cs" />
+    <Compile Include="DAL\KetNoi.cs" />
+    <Compile Include="DAL\NhanVienDB.cs" />
     <Compile Include="GIAODIEN\CuaHang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -183,6 +186,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="App.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -193,9 +197,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="DAL\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Images\Cancel.png" />
   </ItemGroup>

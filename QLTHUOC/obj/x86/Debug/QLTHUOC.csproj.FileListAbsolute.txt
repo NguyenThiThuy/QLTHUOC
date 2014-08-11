@@ -16,3 +16,22 @@ D:\IT\LapTrinhGiaoDien\DO_AN_QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.NhaC
 D:\IT\LapTrinhGiaoDien\DO_AN_QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.NhanVien.resources
 D:\IT\LapTrinhGiaoDien\DO_AN_QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.Thuoc.resources
 D:\IT\LapTrinhGiaoDien\DO_AN_QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.exe
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.pdb
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.CuaHang.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.DangKy.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.DangNhap.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.DoiMatKhau.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.HoaDon.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.NhaCungCap.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.NhanVien.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.PhieuNhap.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.PhieuXuat.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.Thuoc.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.GIAODIEN.TrangChu.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.Properties.Resources.resources
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\obj\x86\Debug\QLTHUOC.csproj.GenerateResource.Cache
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\bin\Debug\QLTHUOC.exe.config
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\bin\Debug\QLTHUOC.exe
+C:\Users\Nguyen Thuy\Desktop\LTGD\QLTHUOC\QLTHUOC\bin\Debug\QLTHUOC.pdb
